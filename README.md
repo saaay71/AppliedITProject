@@ -7,7 +7,7 @@
 | Role | Name |
 |---|---|
 | Product Owner | Deval |
-| Scrum Master | |
+| Scrum Master | Tej Bahadur Shrestha|
 | Developer | |
 | Developer | |
 | Developer | |
