@@ -8,7 +8,7 @@
 |---|---|
 | Product Owner | Deval |
 | Scrum Master | Tej Bahadur Shrestha|
-| Developer | |
+| Developer | Meet Bhadehsia |
 | Developer | |
 | Developer | |
 
