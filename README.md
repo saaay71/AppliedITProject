@@ -6,7 +6,7 @@
 
 | Role | Name |
 |---|---|
-| Product Owner | Ali Alhosseini |
+| Product Owner | Mohan |
 | Scrum Master | |
 | Developer | |
 | Developer | |
