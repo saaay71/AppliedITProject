@@ -6,13 +6,13 @@ _Due: Session 5 — 05 May_
 
 ## Vision Statement
 
-> **For** [target users]  
-> **Who** [have this problem / need]  
-> **Our product** [product name]  
-> **Is a** [category]  
-> **That** [key benefit / reason to use it]  
-> **Unlike** [current alternative]  
-> **Our product** [key differentiator]
+> **For** [Students]  
+> **Who** [Students have problem applying at job portal website as they apply they didnt get the detailed feedback where they need to improve their application]  
+> **Our product** [NoGhostJobs]  
+> **Is a** [smart AI-powered job platform ]  
+> **That** [provides personalized, AI-driven feedback on rejected applications, identifies skill gaps, and helps users improve their CVs and job matching success]  
+> **Unlike** [traditional job platforms like LinkedIn and Indeed that offer little to no feedback after rejection]  
+> **Our product** [delivers transparent, actionable insights and tailored support specifically designed for international students to improve their chances of getting hired]
 
 ---
 

@@ -6,11 +6,11 @@
 
 | Role | Name |
 |---|---|
-| Product Owner | Ali Alhosseini |
-| Scrum Master | |
-| Developer | |
-| Developer | |
-| Developer | |
+| Product Owner | Deval Mevada|
+| Scrum Master | Tej Bahadur Shrestha|
+| Developer | Meet Bhadehsia |
+| Developer |Rohan Pandey|
+| Developer | Dev Desai|
 
 ## Project Overview
 
