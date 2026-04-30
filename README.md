@@ -7,10 +7,12 @@
 | Role | Name |
 |---|---|
 | Product Owner | Mohan |
+
 | Scrum Master |Ahamd Alisha |
 | Developer |Venkat |
 | Developer |Samba |
 | Developer |Deeksith|
+
 
 ## Project Overview
 
